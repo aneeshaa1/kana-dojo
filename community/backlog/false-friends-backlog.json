@@ -744,7 +744,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 83,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -752,7 +752,7 @@
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 5)",
     "example": "彼はスマートな着こなしをしている。",
     "id": 84,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
