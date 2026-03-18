@@ -261,24 +261,24 @@
     "id": 44,
     "text": "\"〜やすい\" attaches to verb stems to mean \"easy to do\".",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 45,
     "text": "\"〜ておく\" means \"do in advance\" or \"leave as is\".",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 46,
     "text": "\"〜にする\" means \"decide on\" a choice or selection.",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 47,
     "text": "\"〜に決まっている\" means \"must be\" or \"definitely\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
