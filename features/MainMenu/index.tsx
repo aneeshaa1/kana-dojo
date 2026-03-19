@@ -33,9 +33,11 @@ const MainMenu = () => {
   const { theme, setTheme, isGlassMode } = useThemePreferences();
 
   const characterTileClassName = clsx(
-    'inline-flex h-12 w-12 items-center justify-center rounded-xl bg-(--background-color)',
-    ' text-(--secondary-color) ',
-    'transition-colors',
+    'inline-flex h-12 w-12 items-center justify-center rounded-2xl',
+    'bg-(--secondary-color) text-(--background-color)',
+    'border-b-6 border-(--secondary-color-accent)',
+    'transition-all duration-200',
+    'active:border-b-0 active:translate-y-[6px] active:mb-[6px]',
   );
 
   const { playClick } = useClick();
